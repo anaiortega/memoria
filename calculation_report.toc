@@ -5,8 +5,10 @@
 \contentsline {subsection}{\numberline {2.2}Wind design criteria}{2}{subsection.2.2}
 \contentsline {subsection}{\numberline {2.3}Snow loading}{2}{subsection.2.3}
 \contentsline {section}{\numberline {3}Seismic design criteria}{3}{section.3}
-\contentsline {section}{\numberline {4}Dead loads}{4}{section.4}
-\contentsline {section}{\numberline {5}Live loads}{5}{section.5}
-\contentsline {section}{\numberline {6}Snow loads}{5}{section.6}
-\contentsline {section}{\numberline {7}Wind loads}{6}{section.7}
-\contentsline {section}{\numberline {8}Earthquake loads}{7}{section.8}
+\contentsline {section}{\numberline {4}Materials}{3}{section.4}
+\contentsline {section}{\numberline {A}Appendix A. Loading criteria}{5}{appendix.A}
+\contentsline {subsection}{\numberline {A.1}Dead loads}{5}{subsection.A.1}
+\contentsline {subsection}{\numberline {A.2}Live loads}{6}{subsection.A.2}
+\contentsline {subsection}{\numberline {A.3}Snow loads}{6}{subsection.A.3}
+\contentsline {subsection}{\numberline {A.4}Wind loads}{7}{subsection.A.4}
+\contentsline {subsection}{\numberline {A.5}Earthquake loads}{8}{subsection.A.5}
