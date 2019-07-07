@@ -10,6 +10,8 @@
 \newenvironment{Figure}
   {\par\medskip\noindent\minipage{\linewidth}}
   {\endminipage\par\medskip}
+\usepackage{caption}
+\usepackage[section]{placeins}
 
 \title{Foundation Calculation Report: «1750 OX Residences - 1750 N Oxford Ave. - Eau Claire, WI» }
 \author{XC structural engineering}
@@ -28,12 +30,13 @@
 \section{Loading criteria}
 \input{loads.tex}
 \section{Materials}
-\input{materials}
+\input{materials.tex}
 \section{Design and analysis software}
-\input{software}
+\input{software.tex}
 \section{Load combinations}
-\input{loadComb}
-
+\input{loadComb.tex}
+\section{Structural model}
+\input{model.tex}
 
 \clearpage
 \appendix
