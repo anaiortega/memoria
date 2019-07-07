@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.4.13)  7 JUL 2019 13:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.4.13)  7 JUL 2019 18:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1257,11 +1257,11 @@ LaTeX Font Warning: Font shape `TS1/aer/m/n' undefined
 
 (./calculation_report.toc
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 4.
+(Font)              <10> on input line 5.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 4.
+(Font)              <7> on input line 5.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 4.
+(Font)              <5> on input line 5.
 )
 \tf@toc=\write4
 \openout4 = `calculation_report.toc'.
@@ -1274,14 +1274,24 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 \tf@lof=\write6
 \openout6 = `calculation_report.lof'.
 
- (./codes.tex [1
+ [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
-(./loads.tex
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./introduction.tex)
+(./codes.tex) (./loads.tex
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[2]) (./materials.tex
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[2]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (./materials.tex
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -1293,7 +1303,7 @@ LaTeX Font Info:    Try loading font information for T1+aett on input line 1.
  (/usr/share/texlive/texmf-dist/tex/latex/ae/t1aett.fd
 File: t1aett.fd 1997/11/16 Font definitions for T1/aett.
 ))
-[3] (./loadComb.tex
+(./loadComb.tex [3]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -1506,7 +1516,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 102.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 102.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 102.
 Package rerunfilecheck Info: File `calculation_report.out' has not changed.
-(rerunfilecheck)             Checksum: C5DAF6FFCBEBC9759F3CE54BF47D2695;887.
+(rerunfilecheck)             Checksum: DF0B35DB1D17104070E8B549893907F9;945.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1514,13 +1524,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 102.
  ) ) 
 Here is how much of TeX's memory you used:
- 11769 strings out of 492982
- 168127 string characters out of 6134896
+ 11774 strings out of 492982
+ 168193 string characters out of 6134896
  294180 words of memory out of 5000000
- 14961 multiletter control sequences out of 15000+600000
+ 14962 multiletter control sequences out of 15000+600000
  59977 words of font info for 91 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,15n,43p,337b,395s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 43i,15n,49p,402b,366s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/
 enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr
 /share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/share/texmf/fonts/
@@ -1537,10 +1547,10 @@ e1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi7.pfb></usr
 ic/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></usr/share/te
 xmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-su
 per/sfrm1000.pfb>
-Output written on calculation_report.pdf (10 pages, 237183 bytes).
+Output written on calculation_report.pdf (10 pages, 238539 bytes).
 PDF statistics:
- 237 PDF objects out of 1000 (max. 8388607)
- 207 compressed objects within 3 object streams
- 35 named destinations out of 1000 (max. 500000)
- 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 242 PDF objects out of 1000 (max. 8388607)
+ 212 compressed objects within 3 object streams
+ 36 named destinations out of 1000 (max. 500000)
+ 129 words of extra memory for PDF output out of 10000 (max. 10000000)
 

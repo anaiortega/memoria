@@ -1,13 +1,14 @@
 \babel@toc {english}{}
-\contentsline {section}{\numberline {1}Building codes}{2}{section.1}
-\contentsline {section}{\numberline {2}Loading criteria}{2}{section.2}
-\contentsline {subsection}{\numberline {2.1}Gravity loading}{2}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}Wind design criteria}{2}{subsection.2.2}
-\contentsline {subsection}{\numberline {2.3}Snow loading}{3}{subsection.2.3}
-\contentsline {section}{\numberline {3}Seismic design criteria}{3}{section.3}
-\contentsline {section}{\numberline {4}Materials}{3}{section.4}
-\contentsline {section}{\numberline {5}Design and analysis software}{4}{section.5}
-\contentsline {section}{\numberline {6}Load combinations}{4}{section.6}
+\contentsline {section}{\numberline {1}Introduction and scope}{2}{section.1}
+\contentsline {section}{\numberline {2}Building codes}{2}{section.2}
+\contentsline {section}{\numberline {3}Loading criteria}{2}{section.3}
+\contentsline {subsection}{\numberline {3.1}Gravity loading}{2}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Wind design criteria}{2}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Snow loading}{3}{subsection.3.3}
+\contentsline {section}{\numberline {4}Seismic design criteria}{3}{section.4}
+\contentsline {section}{\numberline {5}Materials}{3}{section.5}
+\contentsline {section}{\numberline {6}Design and analysis software}{3}{section.6}
+\contentsline {section}{\numberline {7}Load combinations}{4}{section.7}
 \contentsline {section}{\numberline {A}Appendix A. Loading criteria}{7}{appendix.A}
 \contentsline {subsection}{\numberline {A.1}Dead loads}{7}{subsection.A.1}
 \contentsline {subsection}{\numberline {A.2}Live loads}{8}{subsection.A.2}
