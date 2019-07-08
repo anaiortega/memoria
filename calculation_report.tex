@@ -12,6 +12,7 @@
   {\endminipage\par\medskip}
 \usepackage{caption}
 \usepackage[section]{placeins}
+%\maxdeadcycles=300
 
 \title{Foundation Calculation Report: «1750 OX Residences - 1750 N Oxford Ave. - Eau Claire, WI» }
 \author{XC structural engineering}
@@ -40,8 +41,21 @@
 \section{Basement walls}
 \input{basement_walls.tex}
 
-\clearpage
+\newpage
 \appendix
-\section{Appendix A. Loading criteria}
+\section*{Appendices}
+\addcontentsline{toc}{section}{Appendices}
+\renewcommand{\thesubsection}{\Alph{subsection}}
+
+\subsection{Loading criteria} \label{loadCrit}
 \input{loads_annex/loads.tex}
+
+\newpage
+\subsection{Calculation results. Internal forces on columns}
+\subsubsection{Ultimate limit states}
+\input{annex_res_columns/ULS}
+\clearpage
+\newpage
+\subsubsection{Serviceability limit states}
+\input{annex_res_columns/SLS}
 \end{document}

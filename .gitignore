@@ -22,10 +22,11 @@
 *.out
 *.synctex.gz
 *~
-*.pdf
 *.dvi
 *.log
 *.lot
 *.out
 *.toc
+*.lof
+*.aux
 
