@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.16)  7 JUL 2019 12:52
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.4.13)  7 JUL 2019 20:58
->>>>>>> d87fc8a183e44e8f16720b5a03b77d414b706c58
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.16)  8 JUL 2019 16:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1273,13 +1269,13 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 \tf@toc=\write4
 \openout4 = `calculation_report.toc'.
 
- (./calculation_report.lot)
+ (./calculation_report.lot [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
 \tf@lot=\write5
 \openout5 = `calculation_report.lot'.
 
- (./calculation_report.lof [1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
+ (./calculation_report.lof)
 \tf@lof=\write6
 \openout6 = `calculation_report.lof'.
 
@@ -1302,7 +1298,7 @@ File: t1aett.fd 1997/11/16 Font definitions for T1/aett.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 ) [5] (./model.tex [6]
-<figures/mesh.png, id=183, 602.25pt x 451.6875pt>
+<figures/mesh.png, id=203, 602.25pt x 451.6875pt>
 File: figures/mesh.png Graphic file (type png)
 <use figures/mesh.png>
 Package pdftex.def Info: figures/mesh.png  used on input line 15.
@@ -1313,7 +1309,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 16.
 See the caption package documentation for explanation.
 
-<figures/LC_D.png, id=184, 602.25pt x 451.6875pt>
+<figures/LC_D.png, id=204, 602.25pt x 451.6875pt>
 File: figures/LC_D.png Graphic file (type png)
 <use figures/LC_D.png>
 Package pdftex.def Info: figures/LC_D.png  used on input line 20.
@@ -1323,7 +1319,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 21.
 See the caption package documentation for explanation.
 
-<figures/LC_L_ru.png, id=185, 602.25pt x 451.6875pt>
+<figures/LC_L_ru.png, id=205, 602.25pt x 451.6875pt>
 File: figures/LC_L_ru.png Graphic file (type png)
 <use figures/LC_L_ru.png>
 Package pdftex.def Info: figures/LC_L_ru.png  used on input line 26.
@@ -1333,7 +1329,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 27.
 See the caption package documentation for explanation.
 
-<figures/LC_L_rs.png, id=186, 602.25pt x 451.6875pt>
+<figures/LC_L_rs.png, id=206, 602.25pt x 451.6875pt>
 File: figures/LC_L_rs.png Graphic file (type png)
 <use figures/LC_L_rs.png>
 Package pdftex.def Info: figures/LC_L_rs.png  used on input line 32.
@@ -1346,7 +1342,7 @@ See the caption package documentation for explanation.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<figures/LC_L_pu.png, id=187, 602.25pt x 451.6875pt>
+<figures/LC_L_pu.png, id=207, 602.25pt x 451.6875pt>
 File: figures/LC_L_pu.png Graphic file (type png)
 <use figures/LC_L_pu.png>
 Package pdftex.def Info: figures/LC_L_pu.png  used on input line 38.
@@ -1357,7 +1353,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 39.
 See the caption package documentation for explanation.
 
-<figures/LC_S.png, id=188, 602.25pt x 451.6875pt>
+<figures/LC_S.png, id=208, 602.25pt x 451.6875pt>
 File: figures/LC_S.png Graphic file (type png)
 <use figures/LC_S.png>
 Package pdftex.def Info: figures/LC_S.png  used on input line 44.
@@ -1367,7 +1363,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 45.
 See the caption package documentation for explanation.
 
-<figures/LC_L_ps.png, id=189, 602.25pt x 451.6875pt>
+<figures/LC_L_ps.png, id=209, 602.25pt x 451.6875pt>
 File: figures/LC_L_ps.png Graphic file (type png)
 <use figures/LC_L_ps.png>
 Package pdftex.def Info: figures/LC_L_ps.png  used on input line 49.
@@ -1385,7 +1381,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  <./figures/mesh.png (PNG copy)> <./figures/LC_D.png (PNG copy)> <./figures/LC_
 L_ru.png (PNG copy)> <./figures/LC_L_rs.png (PNG copy)> <./figures/LC_L_pu.png 
 (PNG copy)> <./figures/LC_S.png (PNG copy)>]
-<figures/LC_W_WE.png, id=197, 602.25pt x 451.6875pt>
+<figures/LC_W_WE.png, id=217, 602.25pt x 451.6875pt>
 File: figures/LC_W_WE.png Graphic file (type png)
 <use figures/LC_W_WE.png>
 Package pdftex.def Info: figures/LC_W_WE.png  used on input line 55.
@@ -1396,7 +1392,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 56.
 See the caption package documentation for explanation.
 
-<figures/LC_W_NS.png, id=198, 602.25pt x 451.6875pt>
+<figures/LC_W_NS.png, id=218, 602.25pt x 451.6875pt>
 File: figures/LC_W_NS.png Graphic file (type png)
 <use figures/LC_W_NS.png>
 Package pdftex.def Info: figures/LC_W_NS.png  used on input line 61.
@@ -1409,8 +1405,17 @@ See the caption package documentation for explanation.
 [8
 
  <./figures/LC_L_ps.png (PNG copy)> <./figures/LC_W_WE.png (PNG copy)> <./figur
-es/LC_W_NS.png (PNG copy)>]) (./loads_annex/loads.tex
-(./loads_annex/dead_loads_01.tex)
+es/LC_W_NS.png (PNG copy)>]) (./basement_walls.tex
+Overfull \hbox (15.28925pt too wide) in paragraph at lines 9--10
+[]\T1/aer/m/n/10 Vehicular traf-fic around the build-ing is rep-re-sented by a 
+uni-form load of $\OT1/lmr/m/n/10 250 \OML/lmm/m/it/10 psf$ \T1/aer/m/n/10 ($\O
+T1/lmr/m/n/10 11\OML/lmm/m/it/10 :\OT1/lmr/m/n/10 97 \OML/lmm/m/it/10 kN=m[]$\T
+1/aer/m/n/10 ). 
+ []
+
+) [9
+
+] (./loads_annex/loads.tex (./loads_annex/dead_loads_01.tex)
 Overfull \hbox (129.89592pt too wide) in paragraph at lines 4--33
 [][] 
  []
@@ -1528,8 +1533,7 @@ Overfull \hbox (28.88487pt too wide) in paragraph at lines 36--41
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [9
-
+ [10
 
 ]
 Overfull \hbox (44.93765pt too wide) in paragraph at lines 43--50
@@ -1544,7 +1548,7 @@ Overfull \hbox (16.71173pt too wide) in paragraph at lines 52--58
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [10]
+ [11]
 Overfull \hbox (20.74881pt too wide) in paragraph at lines 61--73
 [][] 
  []
@@ -1609,15 +1613,15 @@ AED: lastpage setting LastPage
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [11]
-[12]
+ [12]
+[13]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 102.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 102.
  (./calculation_report.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 102.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 102.
 Package rerunfilecheck Info: File `calculation_report.out' has not changed.
-(rerunfilecheck)             Checksum: 607EB8FCDA556D76691DA2DB7CCF15D0;997.
+(rerunfilecheck)             Checksum: 8CADFC26AB16CFDC363127A5CB6128B3;1262.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1625,14 +1629,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 102.
  ) ) 
 Here is how much of TeX's memory you used:
-<<<<<<< HEAD
- 11728 strings out of 494724
- 167563 string characters out of 6175158
- 289743 words of memory out of 5000000
- 14716 multiletter control sequences out of 15000+600000
- 59488 words of font info for 89 fonts, out of 8000000 for 9000
+ 11887 strings out of 494724
+ 169994 string characters out of 6175158
+ 290679 words of memory out of 5000000
+ 14810 multiletter control sequences out of 15000+600000
+ 63039 words of font info for 97 fonts, out of 8000000 for 9000
  107 hyphenation exceptions out of 8191
- 43i,15n,43p,337b,461s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 43i,15n,51p,488b,456s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/
 enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc} </ho
 me/luis/.texlive2017/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk>{/usr
@@ -1642,42 +1645,17 @@ public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.
-pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></
-usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/
-public/lm/lmmi7.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/sha
-re/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/l
-m/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
-Output written on calculation_report.pdf (8 pages, 214057 bytes).
-=======
- 11870 strings out of 492982
- 169715 string characters out of 6134896
- 294972 words of memory out of 5000000
- 15022 multiletter control sequences out of 15000+600000
- 63039 words of font info for 97 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 43i,15n,51p,488b,456s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/
-enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr
-/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/share/texmf/fonts/
-enc/dvips/lm/lm-ec.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc1
-0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
-/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/sh
-are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf/fonts/type1/publi
-c/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi7.pfb></usr/share/t
-exmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lm
-r17.pfb></usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf/font
-s/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm
-1000.pfb>
-Output written on calculation_report.pdf (12 pages, 1705339 bytes).
->>>>>>> d87fc8a183e44e8f16720b5a03b77d414b706c58
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texm
+f/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi
+7.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts
+/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></u
+sr/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
+Output written on calculation_report.pdf (13 pages, 1705906 bytes).
 PDF statistics:
- 295 PDF objects out of 1000 (max. 8388607)
- 253 compressed objects within 3 object streams
- 48 named destinations out of 1000 (max. 500000)
- 182 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 322 PDF objects out of 1000 (max. 8388607)
+ 279 compressed objects within 3 object streams
+ 53 named destinations out of 1000 (max. 500000)
+ 214 words of extra memory for PDF output out of 10000 (max. 10000000)
 
