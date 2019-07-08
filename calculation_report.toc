@@ -1,14 +1,18 @@
 \babel@toc {english}{}
-\contentsline {section}{\numberline {1}Building codes}{1}{section.1}
-\contentsline {section}{\numberline {2}Loading criteria}{2}{section.2}
-\contentsline {subsection}{\numberline {2.1}Gravity loading}{2}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}Wind design criteria}{2}{subsection.2.2}
-\contentsline {subsection}{\numberline {2.3}Snow loading}{2}{subsection.2.3}
-\contentsline {section}{\numberline {3}Seismic design criteria}{3}{section.3}
-\contentsline {section}{\numberline {4}Materials}{3}{section.4}
-\contentsline {section}{\numberline {A}Appendix A. Loading criteria}{5}{appendix.A}
-\contentsline {subsection}{\numberline {A.1}Dead loads}{5}{subsection.A.1}
-\contentsline {subsection}{\numberline {A.2}Live loads}{6}{subsection.A.2}
-\contentsline {subsection}{\numberline {A.3}Snow loads}{6}{subsection.A.3}
-\contentsline {subsection}{\numberline {A.4}Wind loads}{7}{subsection.A.4}
-\contentsline {subsection}{\numberline {A.5}Earthquake loads}{8}{subsection.A.5}
+\contentsline {section}{\numberline {1}Introduction and scope}{2}{section.1}
+\contentsline {section}{\numberline {2}Building codes}{2}{section.2}
+\contentsline {section}{\numberline {3}Loading criteria}{2}{section.3}
+\contentsline {subsection}{\numberline {3.1}Gravity loading}{3}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Wind design criteria}{3}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Snow loading}{3}{subsection.3.3}
+\contentsline {section}{\numberline {4}Seismic design criteria}{4}{section.4}
+\contentsline {section}{\numberline {5}Materials}{4}{section.5}
+\contentsline {section}{\numberline {6}Design and analysis software}{5}{section.6}
+\contentsline {section}{\numberline {7}Load combinations}{5}{section.7}
+\contentsline {section}{\numberline {8}Structural model}{6}{section.8}
+\contentsline {section}{\numberline {A}Appendix A. Loading criteria}{9}{appendix.A}
+\contentsline {subsection}{\numberline {A.1}Dead loads}{9}{subsection.A.1}
+\contentsline {subsection}{\numberline {A.2}Live loads}{10}{subsection.A.2}
+\contentsline {subsection}{\numberline {A.3}Snow loads}{10}{subsection.A.3}
+\contentsline {subsection}{\numberline {A.4}Wind loads}{11}{subsection.A.4}
+\contentsline {subsection}{\numberline {A.5}Earthquake loads}{12}{subsection.A.5}

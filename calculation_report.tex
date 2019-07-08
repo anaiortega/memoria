@@ -6,9 +6,12 @@
 \usepackage{multicol,caption}               % three-column layout
 %\usepackage[font={footnotesize}]{caption}
 \usepackage{xcolor}
+\usepackage{hyperref}
 \newenvironment{Figure}
   {\par\medskip\noindent\minipage{\linewidth}}
   {\endminipage\par\medskip}
+\usepackage{caption}
+\usepackage[section]{placeins}
 
 \title{Foundation Calculation Report: «1750 OX Residences - 1750 N Oxford Ave. - Eau Claire, WI» }
 \author{XC structural engineering}
@@ -20,12 +23,20 @@
 \tableofcontents
 \listoftables
 \listoffigures
+\section{Introduction and scope}
+\input{introduction.tex}
 \section{Building codes}
 \input{codes.tex}
 \section{Loading criteria}
 \input{loads.tex}
 \section{Materials}
-\input{materials}
+\input{materials.tex}
+\section{Design and analysis software}
+\input{software.tex}
+\section{Load combinations}
+\input{loadComb.tex}
+\section{Structural model}
+\input{model.tex}
 
 \clearpage
 \appendix
