@@ -9,14 +9,18 @@
 \contentsline {section}{\numberline {5}Materials}{4}{section.5}
 \contentsline {section}{\numberline {6}Design and analysis software}{5}{section.6}
 \contentsline {section}{\numberline {7}Load combinations}{5}{section.7}
-\contentsline {section}{\numberline {8}Structural model}{6}{section.8}
-\contentsline {section}{\numberline {9}Basement walls}{9}{section.9}
-\contentsline {subsection}{\numberline {9.1}Introduction}{9}{subsection.9.1}
-\contentsline {subsection}{\numberline {9.2}Load determination}{9}{subsection.9.2}
-\contentsline {subsubsection}{\numberline {9.2.1}Axial loads from building}{9}{subsubsection.9.2.1}
-\contentsline {section}{\numberline {A}Appendix A. Loading criteria}{10}{appendix.A}
-\contentsline {subsection}{\numberline {A.1}Dead loads}{10}{subsection.A.1}
-\contentsline {subsection}{\numberline {A.2}Live loads}{11}{subsection.A.2}
-\contentsline {subsection}{\numberline {A.3}Snow loads}{11}{subsection.A.3}
-\contentsline {subsection}{\numberline {A.4}Wind loads}{12}{subsection.A.4}
-\contentsline {subsection}{\numberline {A.5}Earthquake loads}{13}{subsection.A.5}
+\contentsline {section}{\numberline {8}Structural model}{8}{section.8}
+\contentsline {section}{\numberline {9}Basement walls}{11}{section.9}
+\contentsline {subsection}{\numberline {9.1}Introduction}{11}{subsection.9.1}
+\contentsline {subsection}{\numberline {9.2}Load determination}{11}{subsection.9.2}
+\contentsline {subsubsection}{\numberline {9.2.1}Self weight}{11}{subsubsection.9.2.1}
+\contentsline {subsubsection}{\numberline {9.2.2}Axial loads from building}{11}{subsubsection.9.2.2}
+\contentsline {subsubsection}{\numberline {9.2.3}Earth pressure}{11}{subsubsection.9.2.3}
+\contentsline {subsection}{\numberline {9.3}Stem dimensions and reinforcement}{12}{subsection.9.3}
+\contentsline {subsubsection}{\numberline {9.3.1}Wall types}{12}{subsubsection.9.3.1}
+\contentsline {section}{\numberline {A}Appendix A. Loading criteria}{13}{appendix.A}
+\contentsline {subsection}{\numberline {A.1}Dead loads}{13}{subsection.A.1}
+\contentsline {subsection}{\numberline {A.2}Live loads}{14}{subsection.A.2}
+\contentsline {subsection}{\numberline {A.3}Snow loads}{14}{subsection.A.3}
+\contentsline {subsection}{\numberline {A.4}Wind loads}{15}{subsection.A.4}
+\contentsline {subsection}{\numberline {A.5}Earthquake loads}{16}{subsection.A.5}

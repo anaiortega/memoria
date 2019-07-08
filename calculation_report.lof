@@ -1,10 +1,10 @@
 \babel@toc {english}{}
-\contentsline {figure}{\numberline {1}{\ignorespaces Elastic model, mesh.\relax }}{7}{figure.1}
-\contentsline {figure}{\numberline {2}{\ignorespaces Load case D: dead load (include slab selfweight) [units: kN,m].\relax }}{7}{figure.2}
-\contentsline {figure}{\numberline {3}{\ignorespaces Load case Lru: live load (uniform on rooms) [units: kN,m].\relax }}{7}{figure.3}
-\contentsline {figure}{\numberline {4}{\ignorespaces Load case Lrs: live load (staggered pattern on rooms) [units: kN,m].\relax }}{7}{figure.4}
-\contentsline {figure}{\numberline {5}{\ignorespaces Load case Lpu: live load (uniform on patios) [units: kN,m].\relax }}{7}{figure.5}
-\contentsline {figure}{\numberline {6}{\ignorespaces Load case S: snow [units: kN,m].\relax }}{7}{figure.6}
-\contentsline {figure}{\numberline {7}{\ignorespaces Load case Lps: live load (staggered pattern on patios) [units: kN,m].\relax }}{8}{figure.7}
-\contentsline {figure}{\numberline {8}{\ignorespaces Load case W\_WE: wind West-East [units: kN,m].\relax }}{8}{figure.8}
-\contentsline {figure}{\numberline {9}{\ignorespaces Load case W\_NS: wind North-South [units: kN,m].\relax }}{8}{figure.9}
+\contentsline {figure}{\numberline {1}{\ignorespaces Elastic model, mesh.\relax }}{9}{figure.1}
+\contentsline {figure}{\numberline {2}{\ignorespaces Load case D: dead load (include slab selfweight) [units: kN,m].\relax }}{9}{figure.2}
+\contentsline {figure}{\numberline {3}{\ignorespaces Load case Lru: live load (uniform on rooms) [units: kN,m].\relax }}{9}{figure.3}
+\contentsline {figure}{\numberline {4}{\ignorespaces Load case Lrs: live load (staggered pattern on rooms) [units: kN,m].\relax }}{9}{figure.4}
+\contentsline {figure}{\numberline {5}{\ignorespaces Load case Lpu: live load (uniform on patios) [units: kN,m].\relax }}{9}{figure.5}
+\contentsline {figure}{\numberline {6}{\ignorespaces Load case S: snow [units: kN,m].\relax }}{9}{figure.6}
+\contentsline {figure}{\numberline {7}{\ignorespaces Load case Lps: live load (staggered pattern on patios) [units: kN,m].\relax }}{10}{figure.7}
+\contentsline {figure}{\numberline {8}{\ignorespaces Load case W\_WE: wind West-East [units: kN,m].\relax }}{10}{figure.8}
+\contentsline {figure}{\numberline {9}{\ignorespaces Load case W\_NS: wind North-South [units: kN,m].\relax }}{10}{figure.9}
