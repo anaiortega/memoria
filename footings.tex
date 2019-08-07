@@ -1,8 +1,5 @@
-\subsection{Introduction}
-
-
 \subsection{Loads}
-The loads acting on the footins are shown in \S \ref{sc_column_internal_forces}.
+The loads acting on the footings are shown in \S \ref{sc_column_internal_forces}.
 
 \subsection{Load combinations}
 The load combinations are shown in tables \ref{ULS} and \ref{SLS}.
@@ -11,14 +8,19 @@ The load combinations are shown in tables \ref{ULS} and \ref{SLS}.
 The dimensions and the reinforcement of the footings are indicated in the table \ref{tb_column_footing_schedule}. The position of the footing in the building grid is indicated at the last column.
 
 \begin{table}
-    \includegraphics[width=\linewidth]{figures/column_footing_schedule.png}
+  \begin{center}
+    \includegraphics[width=90mm]{figures/column_footing_schedule.png}
+  \end{center}
     \caption{Column footing schedule.}\label{tb_column_footing_schedule}
 \end{table}
 
-\subsection{Allowable soil-bearing pressures}
-The results obtained for the verification of the soil-bearing capacity are the following:
+\subsection{Limit state checking}
+\subsubsection{Allowable soil-bearing pressures}
+The results obtained for the verification of the soil-bearing capacity are shown in the table \ref{tb_soil_bearing}.
 
+\begin{table}
 \begin{center}
+  \begin{scriptsize}
   \begin{tabular}{|l|l|r|r|}
 \hline
 Foundation & Worst & Vertical & Capacity\\
@@ -55,25 +57,21 @@ Foundation & Worst & Vertical & Capacity\\
  G5 &  SLS04\_b & -1,167.26 & 0.72\\
 \hline
   \end{tabular}
+  \end{scriptsize}
   \end{center}
-
-\subsection{Flexure design}
-
-\begin{table}
-    \includegraphics[width=\linewidth]{figures/flexure_design_cf_long_direction}
-    \caption{Flexure in the longitudinal direction. Capacity factor.}\label{tb_flexure_design_cf_long_direction}
+\caption{Soil bearing pressures. Capacity factors}\label{tb_soil_bearing}
 \end{table}
 
+\subsubsection{Flexure design}
+The capacity factor for the bending in the longitudinal and transverse directions are shown in figures \ref{fg_flexure_design_cf_long_direction} and \ref{fg_flexure_design_cf_transv_direction}.
+
+\subsubsection{Shear design}
+The results of the shear strength verification are shown in the table \ref{tb_footings_shear_design}. The results of the punching shear strength verification are shown in table \ref{tb_footings_puching_design}.
+
 \begin{table}
-    \includegraphics[width=\linewidth]{figures/flexure_design_cf_transv_direction}
-    \caption{Flexure in the transverse direction. Capacity factor.}\label{tb_flexure_design_cf_transv_direction}
-\end{table}
-
-\subsection{Shear design}
-The results of the shear strength verification are shown in the following table:
-
 \begin{center}
-  \begin{tabular}{|l|l|r|r|r|r|r|r|r|r|}
+  \begin{scriptsize}
+\begin{tabular}{|l|l|r|r|r|r|r|r|r|r|}
 \hline
 Footing & Worst & Vertical & thickness & l & d & c & Vd/l & Vu & CF\\
  & combination & load (kN) & (m) & (m) & (m) & (m) & kN/m & kN/m & \\
@@ -109,12 +107,15 @@ Footing & Worst & Vertical & thickness & l & d & c & Vd/l & Vu & CF\\
  G5 &  SLS04\_b & -1,167.26 & 0.64 & 3.35 & 0.57 & 0.41 & 93.63 & 350.00 & 0.27\\
 \hline
   \end{tabular}
-  \end{center}
+  \end{scriptsize}
+\end{center}
+\caption{Shear design. Capacity factors}\label{tb_footings_shear_design}
+\end{table}
 
-\subsection{Two-way shear design}
-The results of the punching shear strength verification are shown in the following table:
 
+\begin{table}
 \begin{center}
+  \begin{scriptsize}
   \begin{tabular}{|l|l|r|r|r|r|r|r|r|r|}
 \hline
 Footing & Worst & Vertical & thickness & L & d & c & Vd/l & Vu & CF\\
@@ -152,5 +153,23 @@ Footing & Worst & Vertical & thickness & L & d & c & Vd/l & Vu & CF\\
  G5 &  SLS04\_b & -1,167.26 & 0.64 & 3.35 & 0.57 & 0.41 & 273.02 & 647.47 & 0.42\\
 \hline
   \end{tabular}
+  \end{scriptsize}
   \end{center}
+\caption{Two-way shear design. Capacity factors}\label{tb_footings_puching_design}
+\end{table}
 
+\begin{figure}
+  \begin{center}
+    \includegraphics[width=90mm]{figures/flexure_design_cf_long_direction}
+  \end{center}
+    \caption{Flexure in the longitudinal direction. Capacity factor.}\label{fg_flexure_design_cf_long_direction}
+\end{figure}
+
+\begin{figure}
+  \begin{center}
+    \includegraphics[width=90mm]{figures/flexure_design_cf_transv_direction}
+  \end{center}
+    \caption{Flexure in the transverse direction. Capacity factor.}\label{fg_flexure_design_cf_transv_direction}
+\end{figure}
+
+%%  LocalWords:  kN Flexure Vd Vu
