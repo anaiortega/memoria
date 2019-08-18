@@ -151,4 +151,93 @@
 
 
 \subsubsection{Columns P1.1, P1.2 and P1.3}
-XXXX
+
+\paragraph{Loads.}
+
+\begin{itemize}
+\item Column P1.3: load from corridor beam and courtyard beam: $192.97\ kN + 65.99\ kN= 258.96\ kN$
+\item Column P1.2: load from courtyard beam: $219.96\ kN$
+\item Column P1.1: load from courtyard beam: $65.99\ kN$
+\end{itemize}
+
+\paragraph{Internal forces.}
+
+\noindent Maximum induced axial force:
+
+\begin{equation}
+  N_{max}= 258.96\ kN
+  M_{y,max}= 5.18\ kN m
+  M_{z,max}= 12.95\ kN m
+\end{equation}
+
+\paragraph{Mechanical properties.}
+
+\begin{itemize}
+\item Structural shape: HSS8x8x3/16
+\item Height: 3.51 m
+\item Steel: ASTM A500 Grade B ($F_y= 315.0\ MPa$)
+\item Effective length buckling coefficient: $K= 1$
+\item Compression
+\begin{itemize}
+  \item Limiting width-to-thickness ratio $\lambda_r= 35.28$
+  \item Classification of walls: slender
+\end{itemize}
+\end{itemize}
+
+\paragraph{Compression check.}
+
+\begin{itemize}
+\item Nominal compressive strength: $P_n= \frac{844.37}{1.67}= 505.61\ kN$
+\item Nominal flexural strength: $M_n= \frac{58.55}{1.67}= 35.06\ kN m$
+\end{itemize}
+
+\noindent Capacity factor according to equation H1-1 of AISC 360-16:
+
+\begin{equation}
+  \frac{P_d}{P_n}+\frac{8}{9} (\frac{M_{yd}}{M_{yn}}+\frac{M_{zd}}{M_{zn}})= 0.97 < 1.0 \implies OK
+  \end{equation}
+
+\subsubsection{Column P1.4}
+
+\paragraph{Loads.}
+
+\begin{itemize}
+\item Column P1.4: load from corridor: $125.49\ kN$
+\end{itemize}
+
+\paragraph{Internal forces.}
+
+\noindent Maximum induced axial force:
+
+\begin{equation}
+  N_{max}= 125.49\ kN
+  M_{y,max}= 7.33\ kN m
+  M_{z,max}= 6.27\ kN m
+\end{equation}
+
+\paragraph{Mechanical properties.}
+
+\begin{itemize}
+\item Structural shape: HSS7X7X3/16
+\item Height: 3.51 m
+\item Steel: ASTM A500 Grade B ($F_y= 315.0\ MPa$)
+\item Effective length buckling coefficient: $K= 1$
+\item Compression
+\begin{itemize}
+  \item Limiting width-to-thickness ratio $\lambda_r= 35.28$
+  \item Classification of walls: slender
+\end{itemize}
+\end{itemize}
+
+\paragraph{Compression check.}
+
+\begin{itemize}
+\item Nominal compressive strength: $P_n= \frac{774.19}{1.67}= 463.59\ kN$
+\item Nominal flexural strength: $M_n= \frac{51.02}{1.67}= 30.55\ kN m$
+\end{itemize}
+
+\noindent Capacity factor according to equation H1-1 of AISC 360-16:
+
+\begin{equation}
+  \frac{P_d}{P_n}+\frac{8}{9} (\frac{M_{yd}}{M_{yn}}+\frac{M_{zd}}{M_{zn}})= 0.67 < 1.0 \implies OK
+  \end{equation}
